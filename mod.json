@@ -1,0 +1,14 @@
+{
+  "description": "uwu",
+  "developer": "fuckyou",
+  "gd": {
+    "android": "2.205",
+    "mac": "2.200",
+    "win": "2.204"
+  },
+  "geode": "2.0.0-beta.27",
+  "id": "the_bearodactyl.next-free-layer",
+  "name": "next-free-layer",
+  "repository": "https://github.com/TheBearodactyl/next-free-layer-button.git",
+  "version": "v1.0.4"
+}
